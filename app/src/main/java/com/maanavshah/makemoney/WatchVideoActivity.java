@@ -25,7 +25,7 @@ import java.util.TimerTask;
 
 public class WatchVideoActivity extends AppCompatActivity implements RewardedVideoAdListener, OnProgressBarListener {
 
-     private static final String AD_UNIT_ID = "ca-app-pub-3940256099942544/5224354917"; // test
+     private static final String AD_UNIT_ID = "ca-app-pub-3037212628661705/8290485458"; // test
 //    private static final String AD_UNIT_ID = "ca-app-pub-4388442185204641/6485430762";
 
     private RewardedVideoAd rewardedVideoAd;
