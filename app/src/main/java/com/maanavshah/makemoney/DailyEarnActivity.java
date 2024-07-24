@@ -28,7 +28,7 @@ import java.util.TimerTask;
 
 public class DailyEarnActivity extends AppCompatActivity implements RewardedVideoAdListener, OnProgressBarListener {
 
-    private static final String AD_UNIT_ID = "ca-app-pub-3940256099942544/5224354917"; // test
+    private static final String AD_UNIT_ID = "ca-app-pub-3037212628661705/9313623206"; // test
 //    private static final String AD_UNIT_ID = "ca-app-pub-4388442185204641/6485430762";
 
     private RewardedVideoAd rewardedVideoAd;
